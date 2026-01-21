@@ -1,5 +1,8 @@
-# analise-comex-sc
+# ANÁLISE COMEX SC
 Automação ETL em Python e Dashboard de Comércio Exterior (Santa Catarina - 2025)
+![Dashboard](print.jpg)
+
+
 
 # Análise de Comércio Exterior - Santa Catarina (2025) 
 
